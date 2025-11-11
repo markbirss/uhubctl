@@ -171,6 +171,7 @@ and can be installed with following commands:
 * Ubuntu/Debian/Raspbian: `sudo apt install uhubctl`
 * Redhat/EPEL/Fedora/CentOS: `sudo yum install uhubctl`
 * OpenSUSE: `sudo zypper install uhubctl`
+* FreeBSD: `cd /usr/ports/sysutils/uhubctl && sudo make install`
 
 However, uhubctl installed from standard package manager may not
 necessarily be latest version, or even severely lag behind current version.
